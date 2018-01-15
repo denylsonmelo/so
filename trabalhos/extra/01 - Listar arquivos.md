@@ -38,7 +38,7 @@ Onde por exemplo:
 
 
 #### Linguagem de Programação
-Livre, escolha qualquer uma que se sentir confiante, mas a entrada e saida deve serem fornecidas pela linha de comando
+Livre, escolha qualquer uma que se sentir confiante, mas a entrada e saida devem serem fornecidas pela linha de comando
 
 
 **Forma de entrega:**
