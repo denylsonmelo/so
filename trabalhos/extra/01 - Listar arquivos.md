@@ -17,7 +17,7 @@ Onde por exemplo:
 #### Saída Exemplo:
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║   Tipo    PermissaoString PermissãoOctal    Proprietário    Grupo       Tamanho     DataModificacao NomeArquivo         ║
+║   Tipo    PermissaoString PermissãoOctal    Proprietário    Grupo       Tamanho     DataModificacao NomeArquivo           ║
 ╟───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║   -       rwx rwx rwx     7 7 7               <proprietario>  <grupo>     100 b       dd/MM/yyyy      arquivo1.txt        ║
 ║   -       rwx rwx rwx     7 7 7               <proprietario>  <grupo>     100 b       dd/MM/yyyy      arquivo1.txt        ║
