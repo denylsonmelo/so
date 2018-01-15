@@ -75,5 +75,5 @@ Introduzir o estudante aos conceitos e princípios básicos dos sistemas operaci
 [Trabalhos]: #trabalhos
 
 [01 - Listar arquivos]: trabalhos/extra/01-listar-arquivos.md
-[02 - Mostrar conteúdo de arquivos]: trabalhos/extra/02-mostrar-conteudo-arquivos
-[03 - Copiar arquivos]: trabalhos/extra/03-copiar-arquivos
+[02 - Mostrar conteúdo de arquivos]: trabalhos/extra/02-mostrar-conteudo-arquivos.md
+[03 - Copiar arquivos]: trabalhos/extra/03-copiar-arquivos.md
