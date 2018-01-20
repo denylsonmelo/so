@@ -6,6 +6,8 @@ Repositório para a disciplina Sistemas Operacionais dos cursos de Informática 
 2. [Objetivo Geral]
 3. [Objetivo Específico]
 4. [Cronograma]
+    - [1º ano]
+    - [Módulo 1]
 5. [Trabalhos]
 
 ## Ementa
@@ -53,6 +55,22 @@ Introduzir o estudante aos conceitos e princípios básicos dos sistemas operaci
 </div>
 <br/>
 
+### 1º ano
+Data    |   Atividade
+---     |   ---
+20/01   |   Recuperação 3º bimestre (cap. 2, 3, 4, 5)
+27/01   |   Mensal 4º bimestre (cap. 2, 3, 4, 5, 6, 7)
+
+
+### Módulo 1
+Data    |   Atividade
+---     |   ---
+09/02   |   Recuperacao 1º bimestre
+16/02   |   3º prova
+09/03   |   4º prova
+16/03   |   Recuperacao 2º bimestre
+21/03   |   Prova Final
+
 
 ## Trabalhos
 ----
@@ -72,6 +90,8 @@ Introduzir o estudante aos conceitos e princípios básicos dos sistemas operaci
 [Objetivo Geral]: #objetivo-geral
 [Objetivo Específico]: #objetivo-específico
 [Cronograma]: #cronograma
+[1º ano]: #1-ano
+[Módulo 1]: #modulo-1
 [Trabalhos]: #trabalhos
 
 [01 - Listar arquivos]: trabalhos/extra/01-listar-arquivos.md
