@@ -60,6 +60,9 @@ Data    |   Atividade
 ---     |   ---
 20/01   |   Recuperação 3º bimestre (cap. 2, 3, 4, 5)
 27/01   |   Mensal 4º bimestre (cap. 2, 3, 4, 5, 6, 7)
+10/03   |   Bimestral 4º bimestre (cap. 8, 9, 10, 11, 12, 13, 14)
+17/03   |   Recuperação 4º bimestre
+20/03     |   Prova Final
 
 
 ### Módulo 1
